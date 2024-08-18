@@ -1,3 +1,6 @@
+# Screenshot of Snackout Dashboard project
+![snackoutDashboardImage](https://github.com/user-attachments/assets/06c4851f-a217-4e8c-a712-8e92bab156ac)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
