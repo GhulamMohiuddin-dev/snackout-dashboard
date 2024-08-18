@@ -1,3 +1,9 @@
+# Description
+The Snackout Restaurant Management Dashboard is a web-based application built using React, designed to help restaurant owners and managers monitor and manage their business operations efficiently. The dashboard provides an intuitive and visually appealing interface that displays key performance metrics, enabling users to track revenue, order types (such as deliveries, pickups, and dine-ins), and customer engagement at a glance.
+
+# Screenshot of Snackout Dashboard project
+![snackoutDashboardImage](https://github.com/user-attachments/assets/06c4851f-a217-4e8c-a712-8e92bab156ac)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
