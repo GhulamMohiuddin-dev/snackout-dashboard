@@ -8,7 +8,6 @@ import { KPICardStyle } from "../constants";
 import UPIcon from "../static/svg/up.svg";
 import DownIcon from "../static/svg/down.svg";
 
-// Styled Components
 const KPIContainer = styled(Box)({
   display: "flex",
   justifyContent: "space-between",

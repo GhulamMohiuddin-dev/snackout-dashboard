@@ -3,7 +3,6 @@ import { TextField, InputAdornment } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import { styled } from "@mui/system";
 
-// Styled Components
 const StyledTextField = styled(TextField)({
   margin: "16px",
   height: "40px",

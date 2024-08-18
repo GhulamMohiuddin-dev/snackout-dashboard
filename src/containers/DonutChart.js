@@ -1,7 +1,7 @@
 import React from "react";
 import { styled } from "@mui/system";
 import Chart from "react-apexcharts";
-import { Box, Typography, Item } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 
 const OrderTimeText = styled(Typography)({
   fontFamily: "Lato, sans-serif",
@@ -104,7 +104,7 @@ const DonutChart = () => {
         },
       },
     ],
-    series: [2400, 3600, 1200], // Example percentage data
+    series: [2400, 3600, 1200],
   };
 
   return (

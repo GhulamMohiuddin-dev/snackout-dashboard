@@ -105,7 +105,6 @@ const MainDrawer = () => {
               <MenuIcon />
             </IconButton>
           <Drawer
-            // ref={drawerRef}
             variant="temporary"
             open={mobileOpen}
             onClose={handleDrawerToggle}
@@ -117,12 +116,12 @@ const MainDrawer = () => {
                 width: drawerWidth,
                 boxSizing: "border-box",
                 zIndex: 1200,
-                overflowY: "auto", // Allows for scrolling
+                overflowY: "auto",
                 "&::-webkit-scrollbar": {
-                  display: "none", // Hides the scrollbar on WebKit browsers
+                  display: "none",
                 },
-                msOverflowStyle: "none", // Hides the scrollbar on IE and Edge
-                scrollbarWidth: "none", // Hides the scrollbar on Firefox
+                msOverflowStyle: "none",
+                scrollbarWidth: "none",
               },
             }}
           >
@@ -137,11 +136,11 @@ const MainDrawer = () => {
             "& .MuiDrawer-paper": {
               width: drawerWidth,
               boxSizing: "border-box",
-              overflowY: "auto", // Allows for scrolling
+              overflowY: "auto",
               "&::-webkit-scrollbar": {
-                display: "none", // Hides the scrollbar on WebKit browsers
+                display: "none",
               },
-              msOverflowStyle: "none", // Hides the scrollbar on IE and Edge
+              msOverflowStyle: "none",
               scrollbarWidth: "none",
             },
           }}
