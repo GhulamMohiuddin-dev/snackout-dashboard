@@ -64,7 +64,7 @@ const Charts = () => {
                   display: "flex",
                   justifyContent: "space-between",
                   m: 2,
-                  width: "50%",
+                  width: { xs: "90%", md: "50%" },
                 }}
               >
                 {renderButtons()}
